@@ -1,1 +1,3 @@
-Note: You must have python 3 before use it
+# Note:
+You need python 3 before uses it
+
